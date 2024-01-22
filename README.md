@@ -1,2 +1,2 @@
-# element
+# Element
 Element Game Engine
